@@ -1,1 +1,9 @@
-<svg id="npm logo black" xmlns="http://www.w3.org/2000/svg" width="711" height="243" viewBox="0 0 711 243"><defs><style>.cls-1{fill:#262626;}</style></defs><title>npm logo black</title><polygon class="cls-1" points="0 194 92 194 92 48 138 48 138 194 183 194 183 0 0 0 0 194"/><polygon class="cls-1" points="435 0 435 194 527 194 527 49 573 48 573 194 619 194 619 48 665 48 665 194 711 194 711 0 435 0"/><path class="cls-1" d="M355,146H309V48h46ZM218,0V243h91V194h92V0Z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="npm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 780 250" style="enable-background:new 0 0 780 250;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+</style>
+<path class="st0" d="M240,250h100v-50h100V0H240V250z M340,50h50v100h-50V50z M480,0v200h100V50h50v150h50V50h50v150h50V0H480z
+	 M0,200h100V50h50v150h50V0H0V200z"/>
+ </svg>
